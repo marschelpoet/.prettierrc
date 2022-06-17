@@ -5,7 +5,7 @@
   "jsxSingleQuote": true,
   "quoteProps": "as-needed",
   "semi": true,
-  "singleAttributePerLine": true,
+  "singleAttributePerLine": false,
   "singleQuote": true,
   "tabWidth": 2,
   "trailingComma": "es5",
